@@ -1,0 +1,7 @@
+Istio-installation-commands
+cd istio-1.29.1
+export PATH=$PWD/bin:$PATH
+
+
+
+### link : https://istio.io/latest/docs/setup/additional-setup/download-istio-release/
